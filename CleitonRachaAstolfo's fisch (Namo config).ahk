@@ -158,7 +158,7 @@ if pos = 3
 		Click	
 		Sleep rr/7	
 		Click
-		Sleep 50+rr*1.3 ; Change this value "sleep 10" to something higher if you want the macro to click "Shake" slower.
+		Sleep 350+rr*1.3 ; Change this value "sleep 10" to something higher if you want the macro to click "Shake" slower.
 		} ; If find the 'white' color
 		else if (ErrorLevel = 1)
 		{

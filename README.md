@@ -1,4 +1,4 @@
-# Fisch-macro-config
+# CleitonRachaAstolfo's Fisch-macro-config
 **THIS CONFIG EXISTS JUST TO MAKE IT EASIER FOR EVERYONE**
 **THIS IS NOT MY MACRO/SCRIPT**
 **THIS WONT GET YOU BANNED**
